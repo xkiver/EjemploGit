@@ -1,5 +1,9 @@
 *.class
 
+#No considerar .class (Android)
+bin/
+gen/
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
